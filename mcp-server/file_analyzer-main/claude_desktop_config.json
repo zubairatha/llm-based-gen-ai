@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "file_analyzer": {
+      "command": "/ABSOLUTE/PATH/TO/YOUR/PROJECT/file_analyzer-main/.venv/bin/python",
+      "args": [
+        "-u",
+        "/ABSOLUTE/PATH/TO/YOUR/PROJECT/file_analyzer-main/main.py"
+      ]
+    }
+  }
+}
+

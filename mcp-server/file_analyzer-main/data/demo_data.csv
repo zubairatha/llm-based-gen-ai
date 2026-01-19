@@ -1,0 +1,16 @@
+id,name,email,signup_date,score
+1,Bob Smith,user1@test.com,2023-09-06,71
+2,Grace Johnson,user2@example.com,2023-10-31,70
+3,Frank Miller,user3@sample.org,2023-01-28,91
+4,Iris Brown,user4@test.com,2023-06-07,91
+5,Jack Smith,user5@example.com,2023-07-23,80
+6,Alice Miller,user6@sample.org,2023-01-05,70
+7,Henry Davis,user7@demo.com,2023-09-25,81
+8,David Johnson,user8@sample.org,2023-03-05,86
+9,David Davis,user9@demo.com,2023-01-19,41
+10,Henry Lee,user10@test.com,2023-09-28,19
+11,Alice Miller,user11@sample.org,2023-12-22,16
+12,Eva Smith,user12@demo.com,2023-07-05,7
+13,Henry Wilson,user13@example.com,2023-04-21,73
+14,Alice Johnson,user14@sample.org,2023-08-24,1
+15,Frank Wu,user15@demo.com,2023-09-16,47
